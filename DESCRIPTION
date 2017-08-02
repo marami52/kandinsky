@@ -7,7 +7,7 @@ Description: This package has a single function to turn any numeric vector in th
 	or a given dataset, into a Kandinsky-like painting, with a few common Kandinsky shapes,
 	e.g. rectangles and circles, drawn with wrappers around the \code{grid} package.
 URL: http://github.com/gsimchoni/kandinsky, http://giorasimchoni.com
-Depends: R (>= 3.3.3)
+Depends: R (>= 3.3.2)
 License: GPL-3
 Encoding: UTF-8
 LazyData: true
